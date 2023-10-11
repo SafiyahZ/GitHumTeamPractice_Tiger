@@ -1,1 +1,1 @@
-hello, cfgdegree girls!
+print("hello, cfgdegree girls!")
